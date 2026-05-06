@@ -1,4 +1,18 @@
 ## Hi there 👋
+I'm Conner Houdek. I am a student at Iowa State University who is studying Software Engineering with full stack experience in UI/UX.
+
+I love spending time learning new tools and languages and building things that are fulfilling to me and I try to experiment with new tools as much as I can.
+
+The projects I have on display here are some of my personal favorites, milestones for my programming journey, or other projects I made during my time at Iowa State.
+
+If I had to pick one project that I was most proud of, I would say [TripMates](https://github.com/MadHyyper/Tripmates) is what I am most proud of.
+
+## Tools and Frameworks 🔨
+- React
+- Spring Boot
+- Javascript
+- Java
+- C
 
 <!--
 **MadHyyper/MadHyyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
