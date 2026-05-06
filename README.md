@@ -5,7 +5,7 @@ I love spending time learning new tools and languages and building things that a
 
 The projects I have on display here are some of my personal favorites, milestones for my programming journey, or other projects I made during my time at Iowa State.
 
-If I had to pick one project that I was most proud of, I would say [TripMates](https://github.com/MadHyyper/Tripmates) is what I am most proud of.
+If I had to pick one project that I was most proud of, I would choose [TripMates](https://github.com/MadHyyper/Tripmates).
 
 ## Tools and Frameworks 🔨
 - React
