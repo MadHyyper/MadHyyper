@@ -16,7 +16,6 @@ If I had to pick one project that I was most proud of, I would choose [TripMates
 
 ## 🌱 I’m Currently Learning...
 - Godot (GDScript and Game Design)
-- Operating Systems (C and xv6-riscv)
 <!--
 **MadHyyper/MadHyyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
